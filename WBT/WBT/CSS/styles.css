@@ -1,0 +1,51 @@
+body {
+    background-image: url('../Image/background.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+
+
+.center-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+
+
+    color: #05050582;
+    text-align: center;
+    line-height: 32px;
+}
+
+
+h2 {
+    color: #05050582;
+    text-align: center;
+    line-height: 25px;
+}
+
+h3 {
+    color: #4dc6e5;
+    text-align: center;
+    line-height: 32px;
+}
+
+
+h5 {
+
+
+    text-align: center;
+    line-height: 32px;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}

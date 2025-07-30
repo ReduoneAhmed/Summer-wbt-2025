@@ -1,0 +1,37 @@
+body {
+    background-image: url('../Image/contact.png');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+
+h1 {
+    color: #4dc6e5;
+    text-align: center;
+
+}
+
+h2 {
+    color: #e6e7e9;
+    text-align: center;
+
+}
+
+h4 {
+    color: #111010;
+    text-align: left;
+    padding: 12px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+h3 {
+    color: #4dc6e5;
+    text-align: center;
+
+}

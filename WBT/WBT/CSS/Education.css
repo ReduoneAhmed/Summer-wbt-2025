@@ -1,0 +1,43 @@
+body {
+    background-image: url('../Image/education.png');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+
+h1 {
+    color: #0000;
+    text-align: left;
+
+}
+
+h3 {
+    text-align: center;
+    color: #4dc6e5;
+
+}
+
+h4 {
+    text-align: left;
+    color: black;
+    font-size: 22px;
+}
+
+
+h5 {
+    text-align: left;
+    color: black;
+    font-size: 18px;
+}
+
+h2 {
+    color: #1bc4ee;
+    text-align: centre;
+    border: 5px solid rgba(13, 12, 12, 0.5);
+
+
+}
