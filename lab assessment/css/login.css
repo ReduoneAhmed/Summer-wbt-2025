@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
+header nav ul li {
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #8e44ad;
+    font-weight: bold;
+}
+
+.link {
+    margin: 5px;
+    position: absolute;
+    left: 750px;
+}
+
+.main {
+    padding-top: 50px;
+    padding-left: 20px;
+    border-style: solid;
+    height: 200px;
+
+}
+
+.footer {
+    border-style: solid;
+    text-align: center;
+}

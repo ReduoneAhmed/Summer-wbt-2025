@@ -1,0 +1,41 @@
+.sidebar {
+    float: left;
+    width: 30%;
+    padding: 10px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 8px 0;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: purple;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: underline;
+}
+
+
+.main {
+    float: left;
+    width: 65%;
+    padding: 10px;
+}
+
+.main h2 {
+    color: #333;
+}
+
+
+.content::after {
+    content: "";
+    display: table;
+    clear: both;
+}
